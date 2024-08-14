@@ -1,7 +1,7 @@
 # CPP MAKER
 
 ### What is it ?
-Cpp maker is a simple bash script who create basics for your cpp project including:
+#### Cpp maker is a simple bash script who create basics for your cpp project including:
     * simple Makefile.
     * srcs folder for your sources files (.cpp).
     * headers folder for your headers files (.hpp/.h).
