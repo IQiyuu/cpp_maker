@@ -17,7 +17,7 @@ Cpp maker take at least 2 args.
 The first one is the name of your exec file for the Makefile.
 All others are your classes.
 
-[For exemple `./cpp_maker.sh test_exec Class1 Class2` will create a that:](https://github.com/IQiyuu/cpp_maker/assets/example.png)
+[For exemple `./cpp_maker.sh test_exec Class1 Class2` will create a that:](https://github.com/IQiyuu/cpp_maker/blob/main/assets/example.png)
 
 The script will not delete/overwrite your files if they already exists, but he will ask if you want to overwrite.
 
